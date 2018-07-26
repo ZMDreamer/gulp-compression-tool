@@ -1,0 +1,19 @@
+{
+  "name": "web_compression",
+  "version": "1.0.0",
+  "description": "\"前端自动化压缩工具gulb\"",
+  "main": "gulb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "前端打包压缩自动化工具"
+  ],
+  "author": "dreamer",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.1"
+  }
+}
